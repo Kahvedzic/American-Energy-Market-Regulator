@@ -1,1 +1,1 @@
-# AEMR
+# American Energy Market Regulator
