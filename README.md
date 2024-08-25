@@ -10,7 +10,7 @@ The American Energy Market Regulator (AEMR) oversees the reliability of the USA'
 - SQL Filtering
 - Identified high risk plants
 
-# Part 2. Tableau AEMR Case Study
+# Part 2. AEMR Tableau Case Study
 
 Project Summary:
 
