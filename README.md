@@ -11,3 +11,4 @@ The American Energy Market Regulator (AEMR) oversees the reliability of the USA'
 - Identified high risk plants
 
 # Part 2. AEMR Tableau Presentation
+- Examine how much energy was lost due to the outage types and the duration of these outage events in order for AEMR to put more focus on minimizing the outage events and duration to increase the reliability of the energy market
