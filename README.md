@@ -11,7 +11,3 @@ The American Energy Market Regulator (AEMR) oversees the reliability of the USA'
 - Identified high risk plants
 
 # Part 2. AEMR Tableau Case Study
-
-Project Summary:
-
-ChemCorp, a leading chemical producer, has experienced strong market demand, averaging 7% annual growth, leading to expansions across 48 states. Despite this, increased competition from startups using advanced technologies like machine learning and AI has become a concern. Five long-term customers, representing about 10% of sales revenue, have recently switched providers, prompting ChemCorp to take immediate action. A team from Commercial, Strategy, and Business Analytics was formed to address this issue and prevent further market share loss, which could undermine management's credibility and affect dividend payments. ChemCorp’s portfolio includes six industries (Aerospace Defence, Biotechnology, Machinery and Industrial Goods, Medical Equipment, Paper and Packaging, Pharmaceuticals) and eleven chemical products (including specialty chemicals A, G, and J). Management's high-level problem statement is focused on preventing future market share loss by identifying growth industries and potential divestment products.
