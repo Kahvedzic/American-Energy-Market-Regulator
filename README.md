@@ -14,6 +14,7 @@ What's the Business Problem? 💰
 The American Energy Market Regulator (AEMR) is responsible for looking after the United States of America’s domestic energy network. The regulator’s responsibility is to ensure that America’s energy network remains reliable with minimal disruptions, which are known as outages.
 
 There are four key types of outages:
+
 ● Consequential
 
 ● Forced
