@@ -23,14 +23,11 @@ There are four key types of outages:
 
 Insights and recommendations are provided on the following key areas:
 
-Part 1) AEMR SQL Case Study (SQL Jupyter Notebook)
+AEMR SQL Case Study (SQL Jupyter Notebook)
 * COUNT(*) :Counted all outages by year and month
 * AVG: Calculated Average outage duration per plant, per year
 * SQL Filtering
 * Identified high risk plants
-
-Part 2) AEMR Tableau Presentation
-* Examine how much energy was lost due to the outage types and the duration of these outage events in order for AEMR to put more focus on minimizing the outage events and duration to increase the reliability of the energy market
 
 Below consists of major key highlights of entire project
 
