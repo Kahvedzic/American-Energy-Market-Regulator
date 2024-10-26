@@ -1,4 +1,4 @@
-# American Energy Market Regulator (SQL and Tableau) | Jupyter Notebook
+# American Energy Market Regulator | SQL & Jupyter Notebook
 
 Full in-depth project can be found [here](https://github.com/Kahvedzic/American-Energy-Market-Regulator/blob/main/SQL%20Project%20Workbook.ipynb)
 
