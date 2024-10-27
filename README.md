@@ -58,16 +58,30 @@ We've indentified the top 3 participants attributing to total energy loss
 
 # Insights Deep Dive
 
+Here, we counted the number of valid (i.e. Status = Approved) Outage Events sorted by their respective Outage_Reason i.e. Forced, Consequential, Scheduled, Opportunistic) over the 2016 & 2017 Periods
+
+<img width="455" alt="Screenshot 2024-10-27 at 2 48 00 PM" src="https://github.com/user-attachments/assets/d6f97dae-c5b5-45d3-b14f-49a1d11d9926">
+
+Here, we'll show the Total of all Outage Types (Forced, Consequential, Scheduled, Opportunistic) where the Status = Approved, that occurred for both 2016 and 2017, grouped by Year and Month. per month (i.e. 1 – 12). Order by Year, Month, Total_Number_Outages in Descending Order.
+
+Also building on the query we wrote in i), group the results by Outage Type, Year and Month. This is so we can identify whether there is any outage type specifically increasing on a monthly basis when comparing 2016 to 2017.
+
+<img width="271" alt="Screenshot 2024-10-27 at 2 50 20 PM" src="https://github.com/user-attachments/assets/66f17b52-c155-4353-a0b1-6f74451b5138">
+
+Here, well calculates 1) The Total_Number_Outage_Events and 2) The Average Duration in DAYS for each Participant Code and Outage Type over the 2016 and 2017 Period where the Status = Approved. Order by Total_Number_Outage_Events in Descending Order, Reason and Year.
+
+<img width="740" alt="Screenshot 2024-10-27 at 2 51 18 PM" src="https://github.com/user-attachments/assets/b6ade246-4cca-4cdc-9357-4a1756dfa6b2">
+
+**We classify a participant based off the following criteria:**
+
+* High Risk - On average, the participant is unavailable for > 24 Hours (1 Day)
+* Medium Risk - On average, the participant is unavailable between 12 and 24 Hours
+* Low Risk - On average, the participant is unavailable for less than 12 Hours
 
 
+Here, we'll classify each participant code as either High Risk, Medium Risk or Low Risk in a column called Risk_Classification that is based off their Average Outage Duration Time. Please note that this is for all valid (i.e. Where status = approved) outage types (Forced, Consequential, Scheduled, Opportunistic) for all participant codes from 2016 to 2017. Order the results using Average Duration Time In Days in descending order.
 
-
-
-
-
-
-
-
-
+ONLY LIMIT TO 5 ROWS HERE:
+<img width="878" alt="Screenshot 2024-10-27 at 2 52 46 PM" src="https://github.com/user-attachments/assets/dbfa6b5e-798a-479b-99d6-df7687ca2fe0">
 
 
