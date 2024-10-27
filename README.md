@@ -32,7 +32,7 @@ B) Energy Losses and Market Reliability
 
 As an analyst within the data and reporting team, we've been asked to address these two immediate areas of concern
 
-Below consists of major key highlights of entire project
+**Below consists of major key highlights of entire project**
 
 # Data Structure & Initial Checks
 
@@ -55,6 +55,8 @@ We've indentified the top 3 participants attributing to total energy loss
 * Auricon had a total of 6033.97 energy loss
 * GW had a total of 28687.54 energy loss
 * MELK had a total of 1100.00 energy loss 
+
+# Insights Deep Dive
 
 
 
