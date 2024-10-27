@@ -82,6 +82,7 @@ Here, well calculates 1) The Total_Number_Outage_Events and 2) The Average Durat
 Here, we'll classify each participant code as either High Risk, Medium Risk or Low Risk in a column called Risk_Classification that is based off their Average Outage Duration Time. Please note that this is for all valid (i.e. Where status = approved) outage types (Forced, Consequential, Scheduled, Opportunistic) for all participant codes from 2016 to 2017. Order the results using Average Duration Time In Days in descending order.
 
 ONLY LIMIT TO 5 ROWS HERE:
+
 <img width="878" alt="Screenshot 2024-10-27 at 2 52 46 PM" src="https://github.com/user-attachments/assets/dbfa6b5e-798a-479b-99d6-df7687ca2fe0">
 
 
