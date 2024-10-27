@@ -48,7 +48,11 @@ Having identified the top 3 participants by Total Energy Loss being GW, MELK and
 
 <img width="883" alt="Screenshot 2024-10-27 at 2 35 01 PM" src="https://github.com/user-attachments/assets/15f5559a-d961-4a98-ae6f-5f12952d4a09">
 
+We've indentified the top 3 participants attributing to total energy loss
 
+* Auricon had a total of 6033.97 energy loss
+* GW had a total of 28687.54 energy loss
+* MELK had a total of 1100.00 energy loss 
 
 
 
