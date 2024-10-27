@@ -1,6 +1,6 @@
 # American Energy Market Regulator | SQL & Jupyter Notebook
 
-Full in-depth project can be found [here]([https://github.com/Kahvedzic/American-Energy-Market-Regulator/blob/main/SQL%20Project%20Workbook.ipynb](https://github.com/Kahvedzic/American-Energy-Market-Regulator/blob/main/AEMR.ipynb)
+Full in-depth project can be found [here](https://github.com/Kahvedzic/American-Energy-Market-Regulator/blob/main/AEMR.ipynb)
 
 <img width="866" alt="Screenshot 2024-10-24 at 5 13 58 PM" src="https://github.com/user-attachments/assets/5498e84c-a13b-4677-936e-b964c2fb8aa2">
 
