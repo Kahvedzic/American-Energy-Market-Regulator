@@ -36,6 +36,17 @@ Below consists of major key highlights of entire project
 
 # Data Structure & Initial Checks
 
+<img width="827" alt="Screenshot 2024-10-27 at 2 26 11 PM" src="https://github.com/user-attachments/assets/50f1908e-8842-4d49-9beb-19b3c65743ef">
+
+<img width="466" alt="Screenshot 2024-10-27 at 2 26 31 PM" src="https://github.com/user-attachments/assets/9ecc979c-b8fe-40f7-b0d6-e45d21199626">
+
+
+
+
+
+
+
+
 
 
 
