@@ -40,6 +40,13 @@ Below consists of major key highlights of entire project
 
 <img width="466" alt="Screenshot 2024-10-27 at 2 26 31 PM" src="https://github.com/user-attachments/assets/9ecc979c-b8fe-40f7-b0d6-e45d21199626">
 
+Prior to beginning of analysis, familiarization with the datasets was used for quality control
+
+# Executive Summary 
+
+Having identified the top 3 participants by Total Energy Loss being GW, MELK and Auricon; we now need to calculate the Total_Energy_Lost each of these three Participant Codes and the Facility_Code. Additionally, identify the Description_Of_Outage associated with the highest Total_Energy_Lost for each of the Participant_Codes and Facility_Code for each of the three participants.
+
+<img width="883" alt="Screenshot 2024-10-27 at 2 35 01 PM" src="https://github.com/user-attachments/assets/15f5559a-d961-4a98-ae6f-5f12952d4a09">
 
 
 
