@@ -24,11 +24,24 @@ There are four key types of outages:
 
 Insights and recommendations are provided on the following key areas:
 
-* Count all outages by year and month
-* AVG: Calculated Average outage duration per plant, per year
-* SQL Filtering
-* Identified high risk plants
+Recently, the AEMR management team has been increasingly aware of a large number of energy providers that submitted outages over the 2016 and 2017 calendar years. The management team has expressed a desire to have the following two areas of concern addressed:
+
+A) Energy Stability and Market Outages
+
+B) Energy Losses and Market Reliability
+
+As an analyst within the data and reporting team, we've been asked to address these two immediate areas of concern
 
 Below consists of major key highlights of entire project
 
 # Data Structure & Initial Checks
+
+
+
+
+
+
+
+
+
+
