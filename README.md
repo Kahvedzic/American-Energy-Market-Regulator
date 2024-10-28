@@ -100,6 +100,9 @@ Here, we'll calculate the Average Energy Lost and Total Energy Lost for each Fac
 
 <img width="832" alt="Screenshot 2024-10-27 at 5 25 23 PM" src="https://github.com/user-attachments/assets/9ac573e3-809d-4f5a-a3c6-f0fd1d5f41d9">
 
+# Conclusion
+
+
 
 
 
