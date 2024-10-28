@@ -110,6 +110,9 @@ Full in-depth project with SQL queries can be found again [here](https://github.
 
 Project dataset can be found again [here](https://github.com/Kahvedzic/American-Energy-Market-Regulator/tree/main/AEMR%20Files)
 
+# Thank You
+
+Amar Kahvedzic
 
 
 
