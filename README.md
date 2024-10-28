@@ -82,6 +82,25 @@ ONLY LIMIT TO 5 ROWS HERE:
 <img width="878" alt="Screenshot 2024-10-27 at 2 57 29 PM" src="https://github.com/user-attachments/assets/74a00fb5-af2d-4214-99af-357e0721e0fd">
 
 
-CONTINUE PART 2
+When an energy provider provides energy to the market, they are making a commitment to the market and saying; “We will supply X amount of energy to the market under a contractual obligation.” However, in a situation where the outages are Forced, the energy provider intended to provide energy but are unable to provide energy and are forced offline. If many energy providers are forced offline at the same time it could cause an energy security risk that AEMR needs to mitigate.
+
+To ensure this doesn’t happen, the AEMR is interested in exploring the following questions:
+
+Of the outage types in 2016 and 2017, what percent were Forced Outage(s)? What was the average duration for a forced outage during both 2016 and 2017? Have we seen an increase in the average duration of forced outages? Which energy providers tended to have the largest number of forced outages?
+
+Here, we'll calculate the proportion of Forced Outages that have occurred over the 2016 - 2017 Period. Do we observe any particular increases regarding any Outage Types over this period?
+
+<img width="626" alt="Screenshot 2024-10-27 at 5 22 00 PM" src="https://github.com/user-attachments/assets/84386531-2457-4810-b688-b02223650b7a">
+
+
+
+
+
+
+
+
+
+
+
 
 
