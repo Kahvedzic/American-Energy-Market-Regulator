@@ -4,6 +4,8 @@ Full in-depth project with SQL queries can be found [here](https://github.com/Ka
 
 <img width="866" alt="Screenshot 2024-10-24 at 5 13 58 PM" src="https://github.com/user-attachments/assets/5498e84c-a13b-4677-936e-b964c2fb8aa2">
 
+Project data set can be found [here](https://github.com/Kahvedzic/American-Energy-Market-Regulator/tree/main/AEMR%20Files)
+
 # Project Background
 
 The American Energy Market Regulator (AEMR) oversees the reliability of the USA's domestic energy network, minimizing disruptions known as outages. Of the four types of outages, the AEMR penalizes only forced outages, as they can threaten network reliability if energy supply cannot meet demand. Recently, the AEMR has noted an increase in outage submissions for 2016 and 2017. The management team has two primary concerns, energy stability and market outages, and energy losses and market reliability. As an analyst, you are tasked with addressing these concerns by using SQL and Tableau to extract and analyze relevant data, answering queries, and providing additional insights for the management team.
