@@ -114,6 +114,8 @@ Project dataset can be found again [here](https://github.com/Kahvedzic/American-
 
 # Thank You
 
+[LinkedIn](https://www.linkedin.com/in/amar-kahvedzic-20a02414a/)
+
 Amar Kahvedzic
 
 
