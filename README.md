@@ -1,6 +1,6 @@
 # American Energy Market Regulator | SQL & Jupyter Notebook
 
-LinkedIn can be found [here](https://www.linkedin.com/in/amar-kahvedzic-20a02414a/)
+[LinkedIn](https://www.linkedin.com/in/amar-kahvedzic-20a02414a/)
 
 Full in-depth project with SQL queries can be found [here](https://github.com/Kahvedzic/American-Energy-Market-Regulator/blob/main/AEMR.ipynb)
 
