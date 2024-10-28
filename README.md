@@ -92,11 +92,13 @@ Here, we'll calculate the proportion of Forced Outages that have occurred over t
 
 <img width="626" alt="Screenshot 2024-10-27 at 5 22 00 PM" src="https://github.com/user-attachments/assets/84386531-2457-4810-b688-b02223650b7a">
 
+Here, we'll calculate the Average Duration In Days and Average Energy Lost of all valid FORCED OUTAGES for each participant_code and facility_code sorted by Average Energy Lost in descending order and Ordered by the YEAR Category
 
+<img width="851" alt="Screenshot 2024-10-27 at 5 24 28 PM" src="https://github.com/user-attachments/assets/613ff891-ccaf-4f23-913b-e2c16bd1a2ea">
 
+Here, we'll calculate the Average Energy Lost and Total Energy Lost for each Facility Code and Participant Code across both the 2016 and 2017 periods when the Outage_Reason is set to Forced. Upon completion of this, calculate the percentage of energy lost due to forced outages for each Facility_Code. Please ORDER the query by Total Energy Lost from 2016 to 2017. Which participants have contributed the most to the Energy Lost due to Forced Outages?
 
-
-
+<img width="832" alt="Screenshot 2024-10-27 at 5 25 23 PM" src="https://github.com/user-attachments/assets/9ac573e3-809d-4f5a-a3c6-f0fd1d5f41d9">
 
 
 
