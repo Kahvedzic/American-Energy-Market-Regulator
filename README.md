@@ -2,7 +2,7 @@
 
 Full in-depth project with SQL queries can be found [here](https://github.com/Kahvedzic/American-Energy-Market-Regulator/blob/main/AEMR.ipynb)
 
-Project data set can be found [here](https://github.com/Kahvedzic/American-Energy-Market-Regulator/tree/main/AEMR%20Files)
+Project dataset can be found [here](https://github.com/Kahvedzic/American-Energy-Market-Regulator/tree/main/AEMR%20Files)
 
 <img width="866" alt="Screenshot 2024-10-24 at 5 13 58 PM" src="https://github.com/user-attachments/assets/5498e84c-a13b-4677-936e-b964c2fb8aa2">
 
@@ -108,7 +108,7 @@ We've concluded Auricon, GW, and MELK contribute to the most total energy loss r
 
 Full in-depth project with SQL queries can be found again [here](https://github.com/Kahvedzic/American-Energy-Market-Regulator/blob/main/AEMR.ipynb)
 
-Project data set can be found again [here](https://github.com/Kahvedzic/American-Energy-Market-Regulator/tree/main/AEMR%20Files)
+Project dataset can be found again [here](https://github.com/Kahvedzic/American-Energy-Market-Regulator/tree/main/AEMR%20Files)
 
 
 
