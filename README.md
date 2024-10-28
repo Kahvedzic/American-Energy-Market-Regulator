@@ -1,6 +1,6 @@
 # American Energy Market Regulator | SQL & Jupyter Notebook
 
-Full in-depth project can be found [here](https://github.com/Kahvedzic/American-Energy-Market-Regulator/blob/main/AEMR.ipynb)
+Full in-depth project with SQL queries can be found [here](https://github.com/Kahvedzic/American-Energy-Market-Regulator/blob/main/AEMR.ipynb)
 
 <img width="866" alt="Screenshot 2024-10-24 at 5 13 58 PM" src="https://github.com/user-attachments/assets/5498e84c-a13b-4677-936e-b964c2fb8aa2">
 
@@ -102,7 +102,7 @@ Here, we'll calculate the Average Energy Lost and Total Energy Lost for each Fac
 
 # Conclusion
 
-
+We've concluded Auricon, GW, and MELK contribute to the most total energy loss ranking at 1 for each participant code. 
 
 
 
